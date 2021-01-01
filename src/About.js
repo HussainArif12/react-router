@@ -8,4 +8,6 @@ function About() {
   );
 }
 
+//this is sample text done with vim
 export default About;
+//hey even, this works with nano!!
